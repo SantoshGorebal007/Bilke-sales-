@@ -2,6 +2,9 @@
 
 This project focuses on analyzing bike sales data to uncover trends, patterns, and insights that can help improve business decisions. The analysis is performed using the provided dataset (`Excel Project Dataset.xlsx`).
 
+## Preview
+![Bike Sales Data Analysis](/Preview.png)
+
 ## Project Structure
 - `Excel Project Dataset.xlsx`: The main dataset containing bike sales information.
 - `Screenshot 2025-07-19 154857.png`: Visual reference or output from the analysis.
