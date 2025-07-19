@@ -7,7 +7,7 @@ This project focuses on analyzing bike sales data to uncover trends, patterns, a
 
 ## Project Structure
 - `Excel Project Dataset.xlsx`: The main dataset containing bike sales information.
-- `Screenshot 2025-07-19 154857.png`: Visual reference or output from the analysis.
+- `Preview.png`: Visual reference or output from the analysis.
 
 ## Objectives
 - Explore and clean the bike sales dataset.
@@ -25,9 +25,6 @@ This project focuses on analyzing bike sales data to uncover trends, patterns, a
 
 ## Results
 Findings and visualizations will be saved in the project folder. Refer to the screenshot for sample output.
-
-## Preview
-![Home Preview](/Screenshot 2025-07-19 154857.png)
 
 ## Author
 Santosh Gorebal
