@@ -24,7 +24,7 @@ This project focuses on analyzing bike sales data to uncover trends, patterns, a
 Findings and visualizations will be saved in the project folder. Refer to the screenshot for sample output.
 
 ## Preview
-![Bike Sales Data Analysis Screenshot](Screenshot 2025-07-19 154857.png)
+![Home Preview](/Screenshot 2025-07-19 154857.png)
 
 ## Author
 Santosh Gorebal
